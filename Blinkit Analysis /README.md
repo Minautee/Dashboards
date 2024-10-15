@@ -29,6 +29,12 @@ This dashboard offers an intuitive visual representation of Blinkit outlet sales
 
 ➡️**Outlet Type Breakdown:** The table categorizes outlet types (e.g., grocery stores, supermarkets) by total sales, item count, average sales, rating, and visibility. Supermarket Type1 leads with $787.55K in sales, while Grocery Stores have the highest number of items (1,083) but moderate sales ($151.94K).
 
+![image](https://github.com/user-attachments/assets/4e24bdbf-52b3-419c-9931-e444d6834fe2)  ![image](https://github.com/user-attachments/assets/bb45eb87-8f82-4dff-9515-56d501a4a523)  ![image](https://github.com/user-attachments/assets/6a19b7b4-8736-4d30-b62c-d4e725412151)
+
+Check out the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMzM1YzMwZjEtZjQ0NC00MzljLTk3MjUtNjExZmM0NDljMWUxIiwidCI6IjJkMjE5OWE4LWNiOTgtNDI2OS1iMmFlLWM2M2NmMmI3YzdmMCIsImMiOjEwfQ%3D%3D)
+
 ### $${\color{green}Conclusion:}$$ 
 
 This dashboard provides an in-depth analysis of Blinkit’s sales performance across different outlets, item types, and locations. The data highlights that $${\color{yellow}medium-sized}$$ outlets and $${\color{yellow}Tier}$$ $${\color{yellow}3}$$ locations are the most profitable, while supermarkets outperform grocery stores in total sales. Additionally, consumers lean towards $${\color{yellow}regular}$$ $${\color{yellow}fat}$$ content items, though there is significant demand for low-fat alternatives. This actionable insight helps the business focus on expanding popular categories and enhancing outlet visibility for better sales performance.
+
+#### Made this with the help of Data Tutorials Youtube Video. Check out the link [here](https://www.youtube.com/watch?v=mmxVCFceQgU&ab_channel=DataTutorials).
